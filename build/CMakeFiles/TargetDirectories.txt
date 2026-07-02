@@ -1,0 +1,3 @@
+/home/jo-o-rafael-gadelha/Coisas da UFPB/Bidu/build/CMakeFiles/central_alertas.dir
+/home/jo-o-rafael-gadelha/Coisas da UFPB/Bidu/build/CMakeFiles/edit_cache.dir
+/home/jo-o-rafael-gadelha/Coisas da UFPB/Bidu/build/CMakeFiles/rebuild_cache.dir
